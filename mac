@@ -159,6 +159,9 @@ brew "nvm"
 cask "visual-studio-code"
 cask "postman"
 
+# install rbenv
+brew "rbenv"
+
 # Databases
 # brew "postgres", restart_service: :changed #no need right now
 # brew "redis", restart_service: :changed #no need right now
